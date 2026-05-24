@@ -1,0 +1,5 @@
+{
+  "name": "Kolhapur Bike Share",
+  "description": "A mobile app prototype for renting bikes in Kolhapur city with GPS tracking and QR unlock.",
+  "requestFramePermissions": ["geolocation"]
+}
